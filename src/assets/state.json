@@ -1,0 +1,254 @@
+{
+    "states": [
+        {
+            "name": "Alabama",
+            "code": "AL",
+            "status": "available"
+        },
+        {
+            "name": "Alaska",
+            "code": "AK",
+            "status": "unavailable"
+        },
+        {
+            "name": "Arizona",
+            "code": "AZ",
+            "status": "available"
+        },
+        {
+            "name": "Arkansas",
+            "code": "AR",
+            "status": "available"
+        },
+        {
+            "name": "California",
+            "code": "CA",
+            "status": "in-progress"
+        },
+        {
+            "name": "Colorado",
+            "code": "CO",
+            "status": "unavailable"
+        },
+        {
+            "name": "Connecticut",
+            "code": "CT",
+            "status": "available"
+        },
+        {
+            "name": "Delaware",
+            "code": "DE",
+            "status": "in-progress"
+        },
+        {
+            "name": "Florida",
+            "code": "FL",
+            "status": "in-progress"
+        },
+        {
+            "name": "Georgia",
+            "code": "GA",
+            "status": "unavailable"
+        },
+        {
+            "name": "Hawaii",
+            "code": "HI",
+            "status": "unavailable"
+        },
+        {
+            "name": "Idaho",
+            "code": "ID",
+            "status": "available"
+        },
+        {
+            "name": "Illinois",
+            "code": "IL",
+            "status": "in-progress"
+        },
+        {
+            "name": "Indiana",
+            "code": "IN",
+            "status": "in-progress"
+        },
+        {
+            "name": "Iowa",
+            "code": "IA",
+            "status": "in-progress"
+        },
+        {
+            "name": "Kansas",
+            "code": "KS",
+            "status": "unavailable"
+        },
+        {
+            "name": "Kentucky",
+            "code": "KY",
+            "status": "in-progress"
+        },
+        {
+            "name": "Louisiana",
+            "code": "LA",
+            "status": "unavailable"
+        },
+        {
+            "name": "Maine",
+            "code": "ME",
+            "status": "available"
+        },
+        {
+            "name": "Maryland",
+            "code": "MD",
+            "status": "unavailable"
+        },
+        {
+            "name": "Massachusetts",
+            "code": "MA",
+            "status": "in-progress"
+        },
+        {
+            "name": "Michigan",
+            "code": "MI",
+            "status": "available"
+        },
+        {
+            "name": "Minnesota",
+            "code": "MN",
+            "status": "unavailable"
+        },
+        {
+            "name": "Mississippi",
+            "code": "MS",
+            "status": "in-progress"
+        },
+        {
+            "name": "Missouri",
+            "code": "MO",
+            "status": "unavailable"
+        },
+        {
+            "name": "Montana",
+            "code": "MT",
+            "status": "available"
+        },
+        {
+            "name": "Nebraska",
+            "code": "NE",
+            "status": "available"
+        },
+        {
+            "name": "Nevada",
+            "code": "NV",
+            "status": "available"
+        },
+        {
+            "name": "New Hampshire",
+            "code": "NH",
+            "status": "available"
+        },
+        {
+            "name": "New Jersey",
+            "code": "NJ",
+            "status": "in-progress"
+        },
+        {
+            "name": "New Mexico",
+            "code": "NM",
+            "status": "in-progress"
+        },
+        {
+            "name": "New York",
+            "code": "NY",
+            "status": "available"
+        },
+        {
+            "name": "North Carolina",
+            "code": "NC",
+            "status": "unavailable"
+        },
+        {
+            "name": "North Dakota",
+            "code": "ND",
+            "status": "unavailable"
+        },
+        {
+            "name": "Ohio",
+            "code": "OH",
+            "status": "unavailable"
+        },
+        {
+            "name": "Oklahoma",
+            "code": "OK",
+            "status": "in-progress"
+        },
+        {
+            "name": "Oregon",
+            "code": "OR",
+            "status": "unavailable"
+        },
+        {
+            "name": "Pennsylvania",
+            "code": "PA",
+            "status": "in-progress"
+        },
+        {
+            "name": "Rhode Island",
+            "code": "RI",
+            "status": "unavailable"
+        },
+        {
+            "name": "South Carolina",
+            "code": "SC",
+            "status": "unavailable"
+        },
+        {
+            "name": "South Dakota",
+            "code": "SD",
+            "status": "available"
+        },
+        {
+            "name": "Tennessee",
+            "code": "TN",
+            "status": "available"
+        },
+        {
+            "name": "Texas",
+            "code": "TX",
+            "status": "available"
+        },
+        {
+            "name": "Utah",
+            "code": "UT",
+            "status": "in-progress"
+        },
+        {
+            "name": "Vermont",
+            "code": "VT",
+            "status": "in-progress"
+        },
+        {
+            "name": "Virginia",
+            "code": "VA",
+            "status": "unavailable"
+        },
+        {
+            "name": "Washington",
+            "code": "WA",
+            "status": "in-progress"
+        },
+        {
+            "name": "West Virginia",
+            "code": "WV",
+            "status": "available"
+        },
+        {
+            "name": "Wisconsin",
+            "code": "WI",
+            "status": "in-progress"
+        },
+        {
+            "name": "Wyoming",
+            "code": "WY",
+            "status": "available"
+        }
+    ]
+}
